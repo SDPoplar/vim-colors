@@ -26,6 +26,8 @@ let colors_name = "sd_poplar_php_dark"
 :hi Normal guifg=#E5E5E5
 :hi LineNr guifg=#E5E5E5
 :hi Special guifg=#F1E57E
+:hi Operator guifg=#F1E57E
+:hi NonText guifg=#E5E5E5
 
 :hi phpEnvVar guifg=#49924C
 :hi phpIntVar guifg=#FFB14C
@@ -57,3 +59,4 @@ let colors_name = "sd_poplar_php_dark"
 :hi phpStringDouble guifg=#F39A85
 :hi phpStringSingle guifg=#F39A85
 :hi phpBacktick guifg=#F39A85
+:hi phpComparison guifg=#F1E57E
