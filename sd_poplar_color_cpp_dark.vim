@@ -32,6 +32,7 @@ hi Operator ctermfg=229 guifg=#F1E57E
 hi NonText ctermfg=255 guifg=#F1E57E                                     
  
 " C/CPP
+hi cComment ctermfg=157
 hi cStatement ctermfg=133                                                 
 hi cLabel ctermfg=166
 hi cConditional ctermfg=166                                               
